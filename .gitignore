@@ -31,6 +31,8 @@ rebel.xml
 /build/
 .gradletasknamecache
 
-application-oauth.properties
+
 .idea/vcs.xml
 src/
+application-oauth.properties
+appplication-google.properties
